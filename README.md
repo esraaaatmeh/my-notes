@@ -1,5 +1,5 @@
 # my-notes
-                                                              # Esraa CV
+                                                              **Esraa CV**
 ## contact                                                 
 * esraaatmeh99@gmail.com
 * (+962) 770663578 
